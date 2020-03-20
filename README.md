@@ -1,1 +1,1 @@
-# 1st-DL-CVMarathon
+# 2nd-PyCrawlerMarathon
